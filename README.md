@@ -10,28 +10,29 @@ author- Manik
 2.I wrote a sample code on vs code editor and used commands in terminal to upload and save my code to GitHub using vs code terminal<br>
 3. I used commands in vs code terminal as follows to;
 
-Initialize your local folder as a Git repository
+Initialize your local folder as a Git repository using
 <b>git init</b>
 <br>
-Stage all of your project files
+Stage all of your project files using
 <b>git add .<b/>
 <br>
-Save your staged files with a descriptive message
+Save your staged files with a descriptive message using
 <b>git commit -m "Initial commit"</b>
 <br>
-Ensure your default branch is named 'main'
+Ensure your default branch is named 'main' using
 <b>git branch -m main</b>
 <br>
-Link your local repository to your remote GitHub repository
+Link your local repository to your remote GitHub repository using
 <b>git remote add origin PASTE_YOUR_COPIED_URL_HERE</b>
 <br>
-Upload your code to GitHub
+Upload your code to GitHub using
 <b>git push -u origin main</b>
 <br>
 
 4.I also edited the README.md file and added my author name to it
 <br>
 5. learned basic git commands and powershell commands
+<br>
 
   
 </P>
