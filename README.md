@@ -14,7 +14,7 @@ Initialize your local folder as a Git repository using
 <b>git init</b>
 <br>
 Stage all of your project files using
-<b>git add .<b/>
+<b>git add .</b>
 <br>
 Save your staged files with a descriptive message using
 <b>git commit -m "Initial commit"</b>
