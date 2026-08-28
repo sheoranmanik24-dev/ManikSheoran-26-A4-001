@@ -47,5 +47,10 @@ Upload your code to GitHub using
 <h1> DAY 3 - 28/08/26</h1>
 <P>
   <h5>1.Today I continued working on task 3.</h5> I faced several issues while trying to get the output.the background gray color was getting confused with obstacles so I used HSV saturation threshold S > 40 to separate colored obstacles from gray background. Another problem that I faced was that white squares were getting missed so to detect them separately I used gray>165 threshold.for several other problems such as a single obstacle producing multiple small, overlapping bounding boxes due to color variation that I was facing I used tutorials and ai tools to solve them. I also used the documentation as it was really helpful. I tried my best to do this task however in 1 or 2 images I could not produce 100% correct results<br>
-  <h5>2.Right now its around 9 pm and I am currently working on task 4</h5>. It's a challenging task as while creating the safe path using same algorithm for all images . in many of the images the safe path is going outside the ROAD. I tried several times to fix it but the path is attempting to cut straight across the center non-drivable area instead of staying on the continuous circuit.Right now I am using ai and YouTube tutorials to fix this issue.
+  <h5>2.Right now its around 9 pm and I am currently working on task 4</h5>. It's a challenging task as while creating the safe path using same algorithm for all images . in many of the images the safe path is going outside the ROAD. I tried several times to fix it but the path is attempting to cut straight across the center non-drivable area instead of staying on the continuous circuit.Right now I am using ai and YouTube tutorials to fix this issue. 
+</P>
+
+<h1>DAY 4 - 29/08/26</h1>
+<P>
+  <H5>Its 1 45 A.M. and I am still working on this task</H5> ,was able to fix the earlier problem to an extent by breaking the Loop Into checkpoint. I did  not tell the program to go from the start line straight to the finish line. Instead, placed a series of dot markers (checkpoints) around the middle of the road and tell the program to connect the dots in order using the for loop.It produced the desired results for many images but in some of the images the output is not as we expect it to be.For today I am leaving it till here and will try to get 100 percent correct results by morning , if its possible.
 </P>
