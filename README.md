@@ -53,4 +53,12 @@ Upload your code to GitHub using
 <h1>DAY 4 - 29/08/26</h1>
 <P>
   <H5>Its 1 45 A.M. and I am still working on this task</H5> ,was able to fix the earlier problem to an extent by breaking the Loop Into checkpoint. I did  not tell the program to go from the start line straight to the finish line. Instead, placed a series of dot markers (checkpoints) around the middle of the road and tell the program to connect the dots in order using the for loop.It produced the desired results for many images but in some of the images the output is not as we expect it to be.For today I am leaving it till here and will try to get 100 percent correct results by morning , if its possible.
+  <br>
+  It's around 6 pm I watched several tutorials and YouTube videos and tried making changes in the code such that I get 100% correct output. I also tried using ai for the same but the output which I was getting yesterday was better than today's. it was difficult to identify the problem and fix it , I could not find a solution that helps me for 100% correct results so I am leaving the code as it is as yesterday's code.I also used AI to add comments to my code to make it more understandable.Many of the images are showing correct output except few of the 10 images.
 </P>
+
+<h4>
+  <u>
+    TODAY I END MY TASK JOURNEY THAT WAS ASSIGNED TO ME BY UGV. I HAVE GIIVEN MY 100 PERCENT THROUGHOUT THE 4 DAYS . I GOT TO LEARN A LOT FROM THIS AS A FRESHER, WHICH I MIGHT NOT HAVE LEARNED IF I HAD NOT TRIED GETTING INTO UGV . I GAVE MY BEST AND WILL CONTINUE TO DO THE SAME IF I AM SELECTED. <B>I GENUINELY HOPE THAT I GET SELECTED IN UGV</B>B>!!
+  </u>
+</h4>
