@@ -41,6 +41,10 @@ Upload your code to GitHub using
 <p>
   <h5>1.started with task 2 in morning-</h5> faced a lot of problems while figuring out how to detect lanes. I used tutorials of ProgrammingKnowledge to learn open cv for beginners and building the lane detection programme. also while facing errors I used ai tools to understand and counter them. Tutorials could not explain everything so I also used the open cv documentation and gigforgigs for the parts of the code I faced issues.It was tricky to find exact pixel coordinates to fit different camera perspectives, after trying multiple times I was able to figure out the lane detection and mark the region of interest but using a common algorithm it was becoming difficult to do this task and apply it correctly to all 10 images.It became even more challenging while handling curved vs straight road. I did my best to get the desired output but unfortunately I couldn't get the desired output for 2-3 images.I also used ai to add comments to my code to make it more understandable.ADDING THIS STATEMENT ON DAY 3 WHILE CHECKING THE CODE ONCE.I noticed that road shadows were breaking lane lines.i found a solution to it to use adaptive thresholding instead of fixed colors but after trying several times my code showed error(I used ai to detect and fix that error but even after that I could not fix it) . WHAT I WANT TO SAY IS THAT I WANTED TO MAKE CHANGES IN CODE TO FIX IT BUT COULDNT SO AT THE END I LEFT IT AS IT IS. <br>
   <h5>2.started with task 3 at night-</h5> I am still working on task 3 and figuring out and learning using tutorials and exploring other resources. but I am halfway through this task and will complete it by today hopefully.While I have written most of the code for task3 there are still some part of code that needs to be approved for desired output for all the images.Today end it here and will review task3 once tomorrow if it requires any changes for correct output<br>
+  <br>
+  <u>
+   <b> NOTE THE OUTPUT FOR TASK2 IMAGES IS STORED AS result_1.jpg, result_2.jpg........ result_10.jpg </b>
+  </u>
   
 </p>
 
